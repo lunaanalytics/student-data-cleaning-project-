@@ -22,3 +22,6 @@ Data cleaning and transformation were performed using Excel and Power Query, inc
 - **Duplicate Records:** Checked for and removed duplicate student records.
 - **Empty Rows & Columns:** Removed unnecessary blank rows and columns to improve dataset structure.
 - **Data Transformation:** Standardized text formats, data types, and data structures using Power Query.
+
+## Dashboard Preview
+ ![Power BI Dashboard](dashboard_preview.png)
